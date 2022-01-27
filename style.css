@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    height: 1600px;
+    width: 1600px;
+    padding: 20px;
+    margin: 60px;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+ .pet1{
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
+.pet2 {
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+
+}
+.pet3 {
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
+.pet4 {
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+
+}
+.pet5 {
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
